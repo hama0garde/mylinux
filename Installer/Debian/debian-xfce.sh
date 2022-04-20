@@ -111,7 +111,7 @@ clear
 echo 'Installing Browser'
 apt install firefox-esr -y 
 clear
-echo ' Welcome to Andronix | Debian '
+echo ' Create By Seniority Hama | System | Debian '
 rm -rf ~/.bash_profile" > $folder/root/.bash_profile 
 
 bash $bin
